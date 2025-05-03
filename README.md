@@ -41,4 +41,4 @@ Este projeto faz parte de uma atividade acadêmica e tem como objetivo a aplica�
 
 | 📟 Simulação no SimulIDE: |
 |:----------------------------------------------------------------:|
-| ![2Displays7Segmentos](2Displays7Segmentos.gif)                      |
+| ![DeteccaoBordas](DeteccaoBordas.gif)                      |
